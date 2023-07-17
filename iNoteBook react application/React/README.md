@@ -1,2 +1,0 @@
-# React
-for react apps
